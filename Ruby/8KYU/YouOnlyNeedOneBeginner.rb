@@ -16,4 +16,13 @@ def check(arr,element)
 end
 
 # run
-puts check([1,3,5,20, "A", "ABC"], "ABC")
+puts check([66, 101], 66)
+puts check([78, 117, 110, 99, 104, 117, 107, 115], 8)
+puts check([101, 45, 75, 105, 99, 107], 107)
+puts check(["t", "e", "s", "t"], "e")
+puts check(["what", "a", "great", "kata"], "kat")
+puts check([66, "codewars", 11, "alex loves pushups"], "alex loves pushups")
+puts check(["come", "on", 110, "2500", 10, "!", 7, 15], "Come")
+puts check(["when's", "the", "next", "Katathon?", 9, 7], "Katathon?")
+puts check([8, 7, 5, "bored", "of", "writing", "tests", 115], 45)
+puts check(["anyone", "want", "to", "hire", "me?"], "me?")
