@@ -36,6 +36,7 @@
 - [Merge Two Sorted Arrays Into One](8KYU/MergeTwoSortedArraysIntoOne.rb)  -  [CodeWars](https://www.codewars.com/kata/5899642f6e1b25935d000161)
 - [Capitalization And Mutability](8KYU/CapitalizationAndMutability.rb)  -  [CodeWars](https://www.codewars.com/kata/595970246c9b8fa0a8000086)
 - [101 Dalmatians Squash The Bugs, Not The Dogs!](8KYU/101DalmatiansSquashTheBugsNotTheDogs.rb)  -  [CodeWars](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
+- [The Wide-Mouthed Frog!](8KYU/TheWideMouthedFrog.rb)  -  [CodeWars](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
