@@ -42,6 +42,9 @@
 - [Grasshopper - Debug](8KYU/GrasshopperDebug.rb)  -  [CodeWars](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
 - [Drink About](8KYU/DrinkAbout.rb)  -  [CodeWars](https://www.codewars.com/kata/56170e844da7c6f647000063)
 - [Exclusive "or" (xor) Logical Operator](8KYU/ExclusiveOrXorLogicalOperator.rb)  -  [CodeWars](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
+- [Returning Strings](8KYU/ReturningStrings.rb)  -  [CodeWars](https://www.codewars.com/kata/55a70521798b14d4750000a4)
+- [Convert a Boolean To a String](8KYU/ConvertABooleanToAString.rb)  -  [CodeWars](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
+- [Hello, Name or World!](8KYU/HelloNameOrWorld.rb)  -  [CodeWars](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
