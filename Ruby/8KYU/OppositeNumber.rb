@@ -16,4 +16,4 @@ def opposite(number)
 end
 
 # run
-puts opposite(10)
+puts opposite(1)

@@ -15,4 +15,8 @@ def positive_sum(arr)
 end
 
 # run
-puts positive_sum(arr = [1,-4,7,12])
+puts positive_sum([1,2,3,4,5])
+puts positive_sum([1,-2,3,4,5])
+puts positive_sum([-1,2,3,4,-5])
+puts positive_sum([])
+puts positive_sum([-1,-2,-3,-4,-5])

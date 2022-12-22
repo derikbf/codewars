@@ -16,4 +16,8 @@ def invert(list)
 end
 
 # run
-puts invert(list = [1,2,3,4,5])
+puts invert([1,2,3,4,5])
+puts invert([1,-2,3,-4,5])
+puts invert([0])
+puts invert([-1,0,1])
+puts invert([])

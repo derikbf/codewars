@@ -14,4 +14,7 @@ def solution(str)
 end
 
 # run
-puts solution("ABCDE")
+puts solution('world')
+puts solution('hello')
+puts solution('')
+puts solution('h')

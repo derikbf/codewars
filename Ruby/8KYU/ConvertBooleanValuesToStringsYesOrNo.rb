@@ -13,3 +13,4 @@ end
 # run
 # puts bool_to_word(false)
 puts bool_to_word(true)
+puts bool_to_word(false)

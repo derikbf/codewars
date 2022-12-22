@@ -13,4 +13,8 @@ def remove_char(s)
 end
 
 # run
-puts remove_char("Dérik")
+puts remove_char('eloquent')
+puts remove_char('country')
+puts remove_char('person')
+puts remove_char('place')
+puts remove_char('ok')

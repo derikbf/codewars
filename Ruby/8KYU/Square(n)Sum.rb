@@ -13,4 +13,8 @@ def square_sum(numbers)
 end
 
 # run
-puts square_sum(numbers = [1, 2, 2])
+puts square_sum([1, 2])
+puts square_sum([0, 3, 4, 5])
+puts square_sum([])
+puts square_sum([-1, -2])
+puts square_sum([-1, 0, 1])

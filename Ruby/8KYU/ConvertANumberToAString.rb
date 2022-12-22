@@ -17,4 +17,4 @@ def number_to_string(num)
 end
 
 # run
-puts number_to_string(10)
+puts number_to_string(67)

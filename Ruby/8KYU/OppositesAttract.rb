@@ -27,4 +27,8 @@ end
 # end
 
 # run
-puts lovefunc(1, 4)
+puts lovefunc(1,4)
+puts lovefunc(2,2)
+puts lovefunc(0,1)
+puts lovefunc(0,0)
+puts lovefunc(5,5)

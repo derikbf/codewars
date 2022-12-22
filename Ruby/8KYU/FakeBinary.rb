@@ -14,4 +14,6 @@ def fake_bin(s)
 end
 
 # run
-puts fake_bin(s = "1927345")
+puts fake_bin('45385593107843568')
+puts fake_bin('509321967506747')
+puts fake_bin('366058562030849490134388085')

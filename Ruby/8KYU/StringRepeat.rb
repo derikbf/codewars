@@ -15,4 +15,6 @@ def repeat_str(n, s)
 end
 
 # run
-puts repeat_str(6, "I")
+puts repeat_str(3, "*")
+puts repeat_str(5, "#")
+puts repeat_str(2, "ha ")

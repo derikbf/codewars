@@ -11,4 +11,8 @@ def even_or_odd(number)
 end
 
 # run
-puts even_or_odd(10)
+puts even_or_odd(2)
+puts even_or_odd(0)
+puts even_or_odd(7)
+puts even_or_odd(1)
+puts even_or_odd(-1)

@@ -20,4 +20,4 @@ def make_negative(num)
 end
 
 # run
-puts make_negative(-10)
+puts make_negative(42)
