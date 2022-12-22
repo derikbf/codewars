@@ -1,0 +1,25 @@
+# Grasshopper - Summation
+
+# DESCRIPTION:
+
+# Summation
+# Write a program that finds the summation of every number from 1 to num. 
+# The number will always be a positive integer greater than 0.
+
+# For example (Input -> Output):
+# 2 -> 3 (1 + 2)
+# 8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
+
+# Solution
+
+def summation(num)
+  sum = 0
+  num.times do |n|
+    sum += n+1
+  end
+  sum
+end
+
+# run
+puts summation(1)
+puts summation(8)
