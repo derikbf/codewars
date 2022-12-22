@@ -33,6 +33,7 @@
 - [Beginner Series #1 School Paperwork](8KYU/BeginnerSeries1SchoolPaperwork.rb)  -  [CodeWars](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
 - [You Only Need One - Beginner](8KYU/YouOnlyNeedOneBeginner.rb)  -  [CodeWars](https://www.codewars.com/kata/57cc975ed542d3148f00015b)
 - [Fake Binary](8KYU/FakeBinary.rb)  -  [CodeWars](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+- [Merge Two Sorted Arrays Into One](8KYU/MergeTwoSortedArraysIntoOne.rb)  -  [CodeWars](https://www.codewars.com/kata/5899642f6e1b25935d000161)
 
 
 ### <a name="7KYU">7 KYU</a>
