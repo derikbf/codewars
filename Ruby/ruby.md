@@ -45,6 +45,7 @@
 - [Returning Strings](8KYU/ReturningStrings.rb)  -  [CodeWars](https://www.codewars.com/kata/55a70521798b14d4750000a4)
 - [Convert a Boolean To a String](8KYU/ConvertABooleanToAString.rb)  -  [CodeWars](https://www.codewars.com/kata/551b4501ac0447318f0009cd)
 - [Hello, Name or World!](8KYU/HelloNameOrWorld.rb)  -  [CodeWars](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
+- [Array Second](8KYU/ArraySecond.rb)  -  [CodeWars](https://www.codewars.com/kata/536c6f2349aa8b16520002e0)
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
