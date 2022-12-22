@@ -47,6 +47,6 @@
 - [Hello, Name or World!](8KYU/HelloNameOrWorld.rb)  -  [CodeWars](https://www.codewars.com/kata/57e3f79c9cb119374600046b)
 - [Array Second](8KYU/ArraySecond.rb)  -  [CodeWars](https://www.codewars.com/kata/536c6f2349aa8b16520002e0)
 - [Beginner - Reduce But Grow](8KYU/BeginnerReduceButGrow.rb)  -  [CodeWars](https://www.codewars.com/kata/57f780909f7e8e3183000078)
-
+- [How Good Are You Really](8KYU/HowGoodAreYouReally.rb)  -  [CodeWars](https://www.codewars.com/kata/5601409514fc93442500010b)
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
