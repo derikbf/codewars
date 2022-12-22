@@ -38,6 +38,7 @@
 - [101 Dalmatians Squash The Bugs, Not The Dogs!](8KYU/101DalmatiansSquashTheBugsNotTheDogs.rb)  -  [CodeWars](https://www.codewars.com/kata/56f6919a6b88de18ff000b36)
 - [The Wide-Mouthed Frog!](8KYU/TheWideMouthedFrog.rb)  -  [CodeWars](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
 - [Get Character From ASCII Value](8KYU/GetCharacterFromASCIIValue.rb)  -  [CodeWars](https://www.codewars.com/kata/55ad04714f0b468e8200001c)
+- [Grasshopper - Basic Function Fixer](8KYU/GrasshopperBasicFunctionFixer.rb)  -  [CodeWars](https://www.codewars.com/kata/56200d610758762fb0000002)
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
