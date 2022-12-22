@@ -39,8 +39,6 @@
 - [The Wide-Mouthed Frog!](8KYU/TheWideMouthedFrog.rb)  -  [CodeWars](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89)
 - [Get Character From ASCII Value](8KYU/GetCharacterFromASCIIValue.rb)  -  [CodeWars](https://www.codewars.com/kata/55ad04714f0b468e8200001c)
 - [Grasshopper - Basic Function Fixer](8KYU/GrasshopperBasicFunctionFixer.rb)  -  [CodeWars](https://www.codewars.com/kata/56200d610758762fb0000002)
-
-# ---
 - [Grasshopper - Debug](8KYU/GrasshopperDebug.rb)  -  [CodeWars](https://www.codewars.com/kata/55cb854deb36f11f130000e1)
 - [Drink About](8KYU/DrinkAbout.rb)  -  [CodeWars](https://www.codewars.com/kata/56170e844da7c6f647000063)
 - [Exclusive "or" (xor) Logical Operator](8KYU/ExclusiveOrXorLogicalOperator.rb)  -  [CodeWars](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)
