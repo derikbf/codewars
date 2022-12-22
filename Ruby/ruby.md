@@ -49,6 +49,9 @@
 - [Beginner - Reduce But Grow](8KYU/BeginnerReduceButGrow.rb)  -  [CodeWars](https://www.codewars.com/kata/57f780909f7e8e3183000078)
 - [How Good Are You Really](8KYU/HowGoodAreYouReally.rb)  -  [CodeWars](https://www.codewars.com/kata/5601409514fc93442500010b)
 - [Are You Playing Banjo?](8KYU/AreYouPlayingBanjo.rb)  -  [CodeWars](https://www.codewars.com/kata/53af2b8861023f1d88000832)
+- [Sum Arrays](8KYU/SumArrays.rb)  -  [CodeWars](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
+- [Reversed Sequence](8KYU/ReversedSequence.rb)  -  [CodeWars](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
+- [Reversed Words](8KYU/ReversedWords.rb)  -  [CodeWars](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
