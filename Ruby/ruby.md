@@ -1,4 +1,6 @@
-# [![CodeWars](https://i.ibb.co/Gp85S0v/ruby.png)](Ruby/ruby.md) Ruby
+# [![CodeWars](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](Ruby/ruby.md) Ruby
+
+[8 KYU](#8KYU) | [7 KYU](#7KYU)
 
 ### <a name="8KYU">8 KYU</a>
 - [Multiply](8KYU/Multiply.rb)  -  [CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004)
