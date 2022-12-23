@@ -60,3 +60,6 @@
 - [Vowel Count](7KYU/VowelCount.rb)  -  [CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [Disemvowel Trolls](7KYU/DisemvowelTrolls.rb)  -  [CodeWars](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 - [Square Every Digit](7KYU/SquareEveryDigit.rb)  -  [CodeWars](https://www.codewars.com/kata/546e2562b03326a88e000020)
+- [Descending Order](7KYU/DescendingOrder.rb)  -  [CodeWars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+- [Highest And Lowest](7KYU/HighestAndLowest.rb)  -  [CodeWars](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+- [Get the Middle Character](7KYU/GetTheMiddleCharacter.rb)  -  [CodeWars](https://www.codewars.com/kata/56747fd5cb988479af000028)
