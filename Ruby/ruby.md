@@ -57,4 +57,5 @@
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
-- [Vowel Count.rb](7KYU/VowelCount.rb)  -  [CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+- [Vowel Count](7KYU/VowelCount.rb)  -  [CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+- [Disemvowel Trolls](7KYU/DisemvowelTrolls.rb)  -  [CodeWars](https://www.codewars.com/kata/52fba66badcd10859f00097e)
