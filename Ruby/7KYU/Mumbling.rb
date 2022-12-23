@@ -16,9 +16,8 @@ def accum(s)
 end
 
 # run
-print accum("abcd")
-# puts accum("ZpglnRxqenU")
-# puts accum("NyffsGeyylB")
-# puts accum("MjtkuBovqrU")
-# puts accum("EvidjUnokmM")
-# puts accum("HbideVbxncC")
+puts accum("ZpglnRxqenU")
+puts accum("NyffsGeyylB")
+puts accum("MjtkuBovqrU")
+puts accum("EvidjUnokmM")
+puts accum("HbideVbxncC")
