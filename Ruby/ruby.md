@@ -63,3 +63,4 @@
 - [Descending Order](7KYU/DescendingOrder.rb)  -  [CodeWars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
 - [Highest And Lowest](7KYU/HighestAndLowest.rb)  -  [CodeWars](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 - [Get the Middle Character](7KYU/GetTheMiddleCharacter.rb)  -  [CodeWars](https://www.codewars.com/kata/56747fd5cb988479af000028)
+- [Mumbling](7KYU/Mumbling.rb)  -  [CodeWars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
