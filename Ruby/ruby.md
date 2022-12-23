@@ -64,3 +64,7 @@
 - [Highest And Lowest](7KYU/HighestAndLowest.rb)  -  [CodeWars](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 - [Get the Middle Character](7KYU/GetTheMiddleCharacter.rb)  -  [CodeWars](https://www.codewars.com/kata/56747fd5cb988479af000028)
 - [Mumbling](7KYU/Mumbling.rb)  -  [CodeWars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+- [You're A Square](7KYU/YoureASquare.rb)   -  [CodeWars](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
+- [Isograms](7KYU/Isograms.rb)   -  [CodeWars](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+- [List Filtering](7KYU/ListFiltering.rb)   -  [CodeWars](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+- [Exes and Ohs](7KYU/ExesAndOhs.rb)   -  [CodeWars](https://www.codewars.com/kata/55908aad6620c066bc00002a)
