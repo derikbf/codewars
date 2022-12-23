@@ -59,3 +59,4 @@
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 - [Vowel Count](7KYU/VowelCount.rb)  -  [CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [Disemvowel Trolls](7KYU/DisemvowelTrolls.rb)  -  [CodeWars](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+- [Square Every Digit](7KYU/SquareEveryDigit.rb)  -  [CodeWars](https://www.codewars.com/kata/546e2562b03326a88e000020)
