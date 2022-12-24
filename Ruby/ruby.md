@@ -71,3 +71,12 @@
 - [Jaden Casing Strings](7KYU/JadenCasingStrings.rb)   -  [CodeWars](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 - [Shortest Word](7KYU/ShortestWord.rb)   -  [CodeWars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 - [Complementary DNA](7KYU/ComplementaryDNA.rb)   -  [CodeWars](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+- [Credit Card Mask](7KYU/CreditCardMask.rb)   -  [CodeWars](https://www.codewars.com/kata/5412509bd436bd33920011bc)
+- [Sum Of Two Lowest Positive Integers](7KYU/SumOfTwoLowestPositiveIntegers.rb)   -  [CodeWars](https://www.codewars.com/kata/558fc85d8fd1938afb000014)
+- [Beginner Series #3 Sum Of Numbers](7KYU/BeginnerSeries3SumOfNumbers.rb)   -  [CodeWars](https://www.codewars.com/kata/55f2b110f61eb01779000053)
+- [Two To One](7KYU/TwoToOne.rb)   -  [CodeWars](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+- [Friend Or Foe?](7KYU/FriendOrFoe.rb)   -  [CodeWars](https://www.codewars.com/kata/55b42574ff091733d900002f)
+
+- [Categorize New Member](7KYU/CategorizeNewMember.rb)   -  [CodeWars](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
+- [Find The Next Perfect Square!](7KYU/FindTheNextPerfectSquare.rb)   -  [CodeWars](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
+- [Printer Errors](7KYU/PrinterErrors.rb)   -  [CodeWars](https://www.codewars.com/kata/56541980fa08ab47a0000040)
