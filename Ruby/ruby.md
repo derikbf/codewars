@@ -68,3 +68,6 @@
 - [Isograms](7KYU/Isograms.rb)   -  [CodeWars](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 - [List Filtering](7KYU/ListFiltering.rb)   -  [CodeWars](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 - [Exes and Ohs](7KYU/ExesAndOhs.rb)   -  [CodeWars](https://www.codewars.com/kata/55908aad6620c066bc00002a)
+- [Jaden Casing Strings](7KYU/JadenCasingStrings.rb)   -  [CodeWars](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+- [Shortest Word](7KYU/ShortestWord.rb)   -  [CodeWars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+- [Complementary DNA](7KYU/ComplementaryDNA.rb)   -  [CodeWars](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
