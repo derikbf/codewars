@@ -89,5 +89,10 @@
 - [Odd or Even?](7KYU/OddorEven.rb)   -  [CodeWars](https://www.codewars.com/kata/5949481f86420f59480000e7)
 - [Sum Of The First nth Term Of Series](7KYU/SumOfTheFirstnthTermOfSeries.rb)   -  [CodeWars](https://www.codewars.com/kata/555eded1ad94b00403000071)
 - [Reverse Words](7KYU/ReverseWords.rb)   -  [CodeWars](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+- [Remove the minimum](7KYU/RemoveTheMinimum.rb)   -  [CodeWars](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
+- [The Highest Profit Wins!](7KYU/TheHighestProfitWins.rb)   -  [CodeWars](https://www.codewars.com/kata/559590633066759614000063)
+- [Testing 1-2-3](7KYU/Testing123.rb)   -  [CodeWars](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
+- [Don't Give Me Five!](7KYU/DontGiveMeFive.rb)   -  [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
+- [Find The Stray Number](7KYU/FindTheStrayNumber.rb)   -  [CodeWars](https://www.codewars.com/kata/57f609022f4d534f05000024)
 
 - [In Progress](7KYU/)   -  [CodeWars](https://www.codewars.com)
