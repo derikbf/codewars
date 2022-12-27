@@ -54,6 +54,13 @@
 - [Sum Arrays](8KYU/SumArrays.rb)  -  [CodeWars](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 - [Reversed Sequence](8KYU/ReversedSequence.rb)  -  [CodeWars](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
 - [Reversed Words](8KYU/ReversedWords.rb)  -  [CodeWars](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
+- [Calculate BMI](8KYU/CalculateBMI.rb)  -  [CodeWars](https://www.codewars.com/kata/57a429e253ba3381850000fb)
+- [MakeUpperCase](8KYU/MakeUpperCase.rb)  -  [CodeWars](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
+- [Will You Make It?](8KYU/WillYouMakeIt.rb)  -  [CodeWars](https://www.codewars.com/kata/5861d28f124b35723e00005e)
+- [Simple Multiplication](8KYU/SimpleMultiplication.rb)  -  [CodeWars](https://www.codewars.com/kata/583710ccaa6717322c000105)
+
+- [In Progress](8KYU/)   -  [CodeWars](https://www.codewars.com)
+
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
@@ -95,7 +102,3 @@
 - [Don't Give Me Five!](7KYU/DontGiveMeFive.rb)   -  [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
 - [Find The Stray Number](7KYU/FindTheStrayNumber.rb)   -  [CodeWars](https://www.codewars.com/kata/57f609022f4d534f05000024)
 - [Count The Divisors Of A Number](7KYU/CountTheDivisorsOfANumber.rb)   -  [CodeWars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
-  
-- [In Progress](7KYU/)   -  [CodeWars](https://www.codewars.com)
-
-
