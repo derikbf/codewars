@@ -94,5 +94,8 @@
 - [Testing 1-2-3](7KYU/Testing123.rb)   -  [CodeWars](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9)
 - [Don't Give Me Five!](7KYU/DontGiveMeFive.rb)   -  [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
 - [Find The Stray Number](7KYU/FindTheStrayNumber.rb)   -  [CodeWars](https://www.codewars.com/kata/57f609022f4d534f05000024)
-
+- [Count The Divisors Of A Number](7KYU/CountTheDivisorsOfANumber.rb)   -  [CodeWars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
+  
 - [In Progress](7KYU/)   -  [CodeWars](https://www.codewars.com)
+
+
