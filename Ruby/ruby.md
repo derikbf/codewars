@@ -1,6 +1,6 @@
 # [![CodeWars](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](Ruby/ruby.md) Ruby
 
-[8 KYU](#8KYU) | [7 KYU](#7KYU)
+[8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU)
 
 ### <a name="8KYU">8 KYU</a>
 - [Multiply](8KYU/Multiply.rb)  -  [CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004)
@@ -70,9 +70,6 @@
 - [Convert A String To An Array](8KYU/ConvertAStringToAnArray.rb)  -  [CodeWars](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 - [Rock Paper Scissors!](8KYU/RockPaperScissors.rb)  -  [CodeWars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 
-- [In Progress](8KYU/)   -  [CodeWars](https://www.codewars.com)
-
-
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 - [Vowel Count](7KYU/VowelCount.rb)  -  [CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
@@ -113,3 +110,8 @@
 - [Don't Give Me Five!](7KYU/DontGiveMeFive.rb)   -  [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
 - [Find The Stray Number](7KYU/FindTheStrayNumber.rb)   -  [CodeWars](https://www.codewars.com/kata/57f609022f4d534f05000024)
 - [Count The Divisors Of A Number](7KYU/CountTheDivisorsOfANumber.rb)   -  [CodeWars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
+
+### <a name="6KYU">6 KYU</a>
+- [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb)   -  [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [Stop GninnipS My SdroW!](6KYU/StopGninnipSMySdroW.rb)   -  [CodeWars](https://www.codewars.com/kata/5264d2b162488dc400000001)
+- [Find The Odd Int](6KYU/FindTheOddInt.rb)   -  [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
