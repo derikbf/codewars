@@ -115,3 +115,8 @@
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb)   -  [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
 - [Stop GninnipS My SdroW!](6KYU/StopGninnipSMySdroW.rb)   -  [CodeWars](https://www.codewars.com/kata/5264d2b162488dc400000001)
 - [Find The Odd Int](6KYU/FindTheOddInt.rb)   -  [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- [Sum of Digits / Digital Root](6KYU/SumOfDigitsDigitalRoot.rb)   -  [CodeWars](https://www.codewars.com/kata/541c8630095125aba6000c00)
+- [Who likes it?](6KYU/WhoLikesIt.rb)   -  [CodeWars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [Array Diff](6KYU/ArrayDiff.rb)   -  [CodeWars](https://www.codewars.com/kata/523f5d21c841566fde000009)
+- [Create Phone Number](6KYU/CreatePhoneNumber.rb)   -  [CodeWars](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
+- [Bit Counting](6KYU/BitCounting.rb)   -  [CodeWars](https://www.codewars.com/kata/526571aae218b8ee490006f4)
