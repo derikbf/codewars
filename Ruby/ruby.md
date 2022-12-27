@@ -58,6 +58,13 @@
 - [MakeUpperCase](8KYU/MakeUpperCase.rb)  -  [CodeWars](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 - [Will You Make It?](8KYU/WillYouMakeIt.rb)  -  [CodeWars](https://www.codewars.com/kata/5861d28f124b35723e00005e)
 - [Simple Multiplication](8KYU/SimpleMultiplication.rb)  -  [CodeWars](https://www.codewars.com/kata/583710ccaa6717322c000105)
+- [Jenny's Secret Message](8KYU/JennysSecretMessage.rb)  -  [CodeWars](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
+- [Is He Gonna Survive?](8KYU/IsHeGonnaSurvive.rb)  -  [CodeWars](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
+- [DNA To RNA Conversion](8KYU/DNAToRNAConversion.rb)  -  [CodeWars](https://www.codewars.com/kata/5556282156230d0e5e000089)
+- [Find Maximum and Minimum Values Of a List](8KYU/FindMaximumAndMinimumValuesOfAList.rb)  -  [CodeWars](https://www.codewars.com/kata/577a98a6ae28071780000989)
+- [If You Can't Sleep, Just Count Sheep!!](8KYU/IfYouCantSleepJustCountSheep.rb)  -  [CodeWars](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
+- [Count by X](8KYU/CountByX.rb)  -  [CodeWars](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
+- [Get The Mean of An Array](8KYU/GetTheMeanOfAnArray.rb)  -  [CodeWars](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 
 - [In Progress](8KYU/)   -  [CodeWars](https://www.codewars.com)
 

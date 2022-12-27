@@ -7,7 +7,7 @@
 # Considering these factors, write a function that tells you if it is possible to get to the pump or not.
 # Function should return true if it is possible and false if not.
 
-# Solution                                                                                                                                                                                                                                   # Solution
+# Solution
 
 def zero_fuel(distance, mpg, fuel_left)
   return distance <= (mpg * fuel_left)

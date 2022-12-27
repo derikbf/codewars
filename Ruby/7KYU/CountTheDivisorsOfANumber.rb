@@ -11,7 +11,7 @@
 # 30 --> 8 (1, 2, 3, 5, 6, 10, 15, 30)
 # Note you should only return a number, the count of divisors. The numbers between parentheses are shown only for you to see which numbers are counted in each case.
 
-# Solution                                                                                                                                                                                                                                   # Solution
+# Solution
 
 def divisors(n)
   count = 0

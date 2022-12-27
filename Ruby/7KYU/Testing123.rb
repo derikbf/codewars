@@ -9,7 +9,7 @@
 # [] --> []
 # ["a", "b", "c"] --> ["1: a", "2: b", "3: c"]
 
-# Solution                                                                                                                                                                                                                                   # Solution
+# Solution
 
 def number(lines)
   lines.map.with_index(1)  do | line, index |

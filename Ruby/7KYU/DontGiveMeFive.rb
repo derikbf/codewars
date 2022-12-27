@@ -14,7 +14,7 @@
 # Have fun coding it and please don't forget to vote and rank this kata! :-)
 # I have also created other katas. Take a look if you enjoyed this kata!
 
-# Solution                                                                                                                                                                                                                                   # Solution
+# Solution
 
 def dont_give_me_five(start_, end_)
   count = 0

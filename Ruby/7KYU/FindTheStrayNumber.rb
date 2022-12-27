@@ -8,7 +8,7 @@
 # [1, 1, 2] ==> 2
 # [17, 17, 3, 17, 17, 17, 17] ==> 3
 
-# Solution                                                                                                                                                                                                                                   # Solution
+# Solution
 
 def stray (numbers)
   numbers.find{ |n| numbers.count(n) == 1 }
