@@ -110,6 +110,8 @@
 - [Don't Give Me Five!](7KYU/DontGiveMeFive.rb)   -  [CodeWars](https://www.codewars.com/kata/5813d19765d81c592200001a)
 - [Find The Stray Number](7KYU/FindTheStrayNumber.rb)   -  [CodeWars](https://www.codewars.com/kata/57f609022f4d534f05000024)
 - [Count The Divisors Of A Number](7KYU/CountTheDivisorsOfANumber.rb)   -  [CodeWars](https://www.codewars.com/kata/542c0f198e077084c0000c2e)
+- [Money, Money, Money](7KYU/MoneyMoneyMoney.rb)   -  [CodeWars](https://www.codewars.com/kata/563f037412e5ada593000114)
+- [Breaking Chocolate Problem](7KYU/BreakingChocolateProblem.rb)   -  [CodeWars](https://www.codewars.com/kata/534ea96ebb17181947000ada)
 
 ### <a name="6KYU">6 KYU</a>
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb)   -  [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
