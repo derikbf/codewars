@@ -65,6 +65,10 @@
 - [If You Can't Sleep, Just Count Sheep!!](8KYU/IfYouCantSleepJustCountSheep.rb)  -  [CodeWars](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 - [Count by X](8KYU/CountByX.rb)  -  [CodeWars](https://www.codewars.com/kata/5513795bd3fafb56c200049e)
 - [Get The Mean of An Array](8KYU/GetTheMeanOfAnArray.rb)  -  [CodeWars](https://www.codewars.com/kata/563e320cee5dddcf77000158)
+- [Array Plus Array](8KYU/ArrayPlusArray.rb)  -  [CodeWars](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
+- [Sentence Smash](8KYU/SentenceSmash.rb)  -  [CodeWars](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+- [Convert A String To An Array](8KYU/ConvertAStringToAnArray.rb)  -  [CodeWars](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+- [Rock Paper Scissors!](8KYU/RockPaperScissors.rb)  -  [CodeWars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 
 - [In Progress](8KYU/)   -  [CodeWars](https://www.codewars.com)
 
