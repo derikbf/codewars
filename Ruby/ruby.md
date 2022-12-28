@@ -69,6 +69,8 @@
 - [Sentence Smash](8KYU/SentenceSmash.rb)  -  [CodeWars](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 - [Convert A String To An Array](8KYU/ConvertAStringToAnArray.rb)  -  [CodeWars](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 - [Rock Paper Scissors!](8KYU/RockPaperScissors.rb)  -  [CodeWars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
+- [Pillars](8KYU/Pillars.rb)  -  [CodeWars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d)
+- [Check Same Case](8KYU/CheckSameCase.rb)  -  [CodeWars](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b)
 
 ### <a name="7KYU">7 KYU</a>
 - [String Ends With?](7KYU/StringEndsWith.rb)  -  [CodeWars](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
