@@ -120,7 +120,7 @@
 - [Sum Of A Sequence](7KYU/SumOfASequence.rb)   -  [CodeWars](https://www.codewars.com/kata/586f6741c66d18c22800010a)
 - [Remove Anchor From URL](7KYU/RemoveAnchorFromURL.rb)   -  [CodeWars](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 - [Two Oldest Ages](7KYU/TwoOldestAges.rb)   -  [CodeWars](https://www.codewars.com/kata/511f11d355fe575d2c000001)
-
+- [Anagram Detection](7KYU/AnagramDetection.rb)   -  [CodeWars](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
 
 ### <a name="6KYU">6 KYU</a>
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb)   -  [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
