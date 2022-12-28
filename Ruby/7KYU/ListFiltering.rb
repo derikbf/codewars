@@ -11,7 +11,8 @@
 # Solution
 
 def filter_list(l)
-  l.select{ |e| e.is_a? Integer }
+  # l.select{ |e| e.is_a? Integer }
+  l.partition { |e| e.is_a? Integer }[0]
 end
 
 # run
