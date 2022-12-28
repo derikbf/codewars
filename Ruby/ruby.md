@@ -136,3 +136,4 @@
 - [Array Diff](6KYU/ArrayDiff.rb) - [CodeWars](https://www.codewars.com/kata/523f5d21c841566fde000009)
 - [Create Phone Number](6KYU/CreatePhoneNumber.rb) - [CodeWars](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Bit Counting](6KYU/BitCounting.rb) - [CodeWars](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+- [Bit Counting](6KYU/TheParityOutlier.rb) - [CodeWars](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
