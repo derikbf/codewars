@@ -118,6 +118,7 @@
 - [Round Up To The Next Multiple Of 5](7KYU/RoundUpToTheNextMultipleOf5.rb)   -  [CodeWars](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 - [Make A Function That Does Arithmetic!](7KYU/MakeAFunctionThatDoesArithmetic.rb)   -  [CodeWars](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
 - [Sum Of A Sequence](7KYU/SumOfASequence.rb)   -  [CodeWars](https://www.codewars.com/kata/586f6741c66d18c22800010a)
+- [Remove Anchor From URL](7KYU/RemoveAnchorFromURL.rb)   -  [CodeWars](https://www.codewars.com/kata/51f2b4448cadf20ed0000386)
 
 ### <a name="6KYU">6 KYU</a>
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb)   -  [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
