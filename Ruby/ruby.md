@@ -116,6 +116,8 @@
 - [Sort Array By String Length](7KYU/SortArrayByStringLength.rb)   -  [CodeWars](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
 - [Find The Middle Element](7KYU/FindTheMiddleElement.rb)   -  [CodeWars](https://www.codewars.com/kata/545a4c5a61aa4c6916000755)
 - [Round Up To The Next Multiple Of 5](7KYU/RoundUpToTheNextMultipleOf5.rb)   -  [CodeWars](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
+- [Make A Function That Does Arithmetic!](7KYU/MakeAFunctionThatDoesArithmetic.rb)   -  [CodeWars](https://www.codewars.com/kata/583f158ea20cfcbeb400000a)
+
 
 ### <a name="6KYU">6 KYU</a>
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb)   -  [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
