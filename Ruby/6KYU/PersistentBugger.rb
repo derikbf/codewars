@@ -24,7 +24,7 @@ end
 
 # run
 puts persistence(39)
-# puts persistence(4)
-# puts persistence(25)
-# puts persistence(999)
-# puts persistence(444)
+puts persistence(4)
+puts persistence(25)
+puts persistence(999)
+puts persistence(444)
