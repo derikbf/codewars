@@ -138,3 +138,5 @@
 - [Bit Counting](6KYU/BitCounting.rb) - [CodeWars](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 - [The Parity Outlier](6KYU/TheParityOutlier.rb) - [CodeWars](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Counting Duplicates](6KYU/CountingDuplicates.rb) - [CodeWars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+- [Duplicate Encoder](6KYU/DuplicateEncoder.rb) - [CodeWars](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+
