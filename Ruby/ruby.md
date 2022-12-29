@@ -140,3 +140,4 @@
 - [Counting Duplicates](6KYU/CountingDuplicates.rb) - [CodeWars](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 - [Duplicate Encoder](6KYU/DuplicateEncoder.rb) - [CodeWars](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 - [Take A Ten Minutes Walk](6KYU/TakeATenMinutesWalk.rb) - [CodeWars](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+- [Replace With Alphabet Position](6KYU/ReplaceWithAlphabetPosition.rb) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
