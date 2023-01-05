@@ -126,6 +126,7 @@
 - [Sort Numbers](7KYU/SortNumbers.rb) - [CodeWars](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 - [Reverse A Number](7KYU/ReverseANumber.rb) - [CodeWars](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5)
 - [Find The Vowels](7KYU/FindTheVowels.rb) - [CodeWars](https://www.codewars.com/kata/5680781b6b7c2be860000036)
+- [Small Enough? Beginner](7KYU/SmallEnoughBeginner.rb) - [CodeWars](https://www.codewars.com/kata/57cc981a58da9e302a000214)
 
 ### <a name="6KYU">6 KYU</a>
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
