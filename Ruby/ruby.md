@@ -142,3 +142,5 @@
 - [Take A Ten Minutes Walk](6KYU/TakeATenMinutesWalk.rb) - [CodeWars](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 - [Replace With Alphabet Position](6KYU/ReplaceWithAlphabetPosition.rb) - [CodeWars](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 - [Persistent Bugger](6KYU/PersistentBugger.rb) - [CodeWars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+- [Your Order, Please](6KYU/YourOrderPlease.rb) - [CodeWars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+- [Convert String To Camel Case](6KYU/ConvertStringToCamelCase.rb) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
