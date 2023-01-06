@@ -129,6 +129,7 @@
 - [Small Enough? Beginner](7KYU/SmallEnoughBeginner.rb) - [CodeWars](https://www.codewars.com/kata/57cc981a58da9e302a000214)
 - [Check The Exam](7KYU/CheckTheExam.rb) - [CodeWars](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 - [Simple Fun 176 Reverse Letter](7KYU/SimpleFun176ReverseLetter.rb) - [CodeWars](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
+- [Summing A Numbers Digits](7KYU/SummingANumbersDigits.rb) - [CodeWars](https://www.codewars.com/kata/52f3149496de55aded000410)
 
 ### <a name="6KYU">6 KYU</a>
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
