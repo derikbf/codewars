@@ -128,6 +128,7 @@
 - [Find The Vowels](7KYU/FindTheVowels.rb) - [CodeWars](https://www.codewars.com/kata/5680781b6b7c2be860000036)
 - [Small Enough? Beginner](7KYU/SmallEnoughBeginner.rb) - [CodeWars](https://www.codewars.com/kata/57cc981a58da9e302a000214)
 - [Check The Exam](7KYU/CheckTheExam.rb) - [CodeWars](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
+- [Simple Fun 176 Reverse Letter](7KYU/SimpleFun176ReverseLetter.rb) - [CodeWars](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)
 
 ### <a name="6KYU">6 KYU</a>
 - [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.rb) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
